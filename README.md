@@ -1,6 +1,6 @@
 # Vue-newsClient
 
-> 使用了 ECMAscript6 + webpack + Vue2.0 + Vuex + Axios  以及 Animate.css
+> 使用了 ECMAscript6 + webpack-simple + Vue2.0 + Vuex + Axios  以及 Animate.css
 
 ## Build Setup
 
